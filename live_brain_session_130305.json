@@ -1,0 +1,92 @@
+{
+  "session_id": "130305",
+  "best_score": 0.2357465992371241,
+  "best_config": {
+    "name": "Bio_Inspired_3.5%",
+    "sparsity": 0.035,
+    "focus": "biological"
+  },
+  "experiments": 10,
+  "results": [
+    {
+      "name": "Brain_Optimal_3%",
+      "score": 0.2344486117362976,
+      "config": {
+        "sparsity": 0.03,
+        "focus": "brain_optimal"
+      }
+    },
+    {
+      "name": "Extreme_Sparse_1%",
+      "score": 0.23367185893178988,
+      "config": {
+        "sparsity": 0.01,
+        "focus": "extreme_sparsity"
+      }
+    },
+    {
+      "name": "Energy_Efficient",
+      "score": 0.23339019363424718,
+      "config": {
+        "sparsity": 0.025,
+        "focus": "energy_efficiency"
+      }
+    },
+    {
+      "name": "Hierarchical_4%",
+      "score": 0.2341831470702912,
+      "config": {
+        "sparsity": 0.04,
+        "focus": "hierarchical"
+      }
+    },
+    {
+      "name": "Adaptive_Precision",
+      "score": 0.2343283053216988,
+      "config": {
+        "sparsity": 0.035,
+        "focus": "adaptive_precision"
+      }
+    },
+    {
+      "name": "Minimal_Power_2%",
+      "score": 0.23424030650745742,
+      "config": {
+        "sparsity": 0.02,
+        "focus": "minimal_power"
+      }
+    },
+    {
+      "name": "Neural_Death_5%",
+      "score": 0.23316010628452005,
+      "config": {
+        "sparsity": 0.05,
+        "focus": "neural_pruning"
+      }
+    },
+    {
+      "name": "Memory_Compress",
+      "score": 0.2324162256633136,
+      "config": {
+        "sparsity": 0.03,
+        "focus": "memory_efficiency"
+      }
+    },
+    {
+      "name": "Bio_Inspired_3.5%",
+      "score": 0.2357465992371241,
+      "config": {
+        "sparsity": 0.035,
+        "focus": "biological"
+      }
+    },
+    {
+      "name": "Edge_Optimized",
+      "score": 0.2350546642239264,
+      "config": {
+        "sparsity": 0.025,
+        "focus": "edge_deployment"
+      }
+    }
+  ]
+}
