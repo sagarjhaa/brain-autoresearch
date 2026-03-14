@@ -1,0 +1,15 @@
+[project]
+name = "brain-autoresearch"
+version = "0.1.0"
+description = "Brain-inspired autonomous AI research for Intel Mac"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.0.0",
+    "numpy>=1.24.0", 
+    "matplotlib>=3.7.0",
+    "psutil>=5.9.0",
+    "requests>=2.31.0",
+]
+
+# Intel Mac optimized - no CUDA dependencies
